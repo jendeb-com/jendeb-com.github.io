@@ -1,18 +1,38 @@
-# Start
+# Roadmap
 
-## Basic
+## Java
 
-* getting started with `javac` compiler
-* 
+#### Project Setup
 
-```java hl_lines="2-3"
-public class MyClass {
-   private String username; 
-}
-```
+* Maven Project
+* Gradle Project
+* Java Modules ?
 
-## Advanced
+#### Testing
 
-## Advanced 2
+* Unit Tests
+* Unit Integration Tests
+* End 2 End Tests
+* System Tests (Use Case Driven)
+* Triggering Tests
+* Analyze Test Reports
 
-## Advanced 3
+#### Working with Frameworks
+
+* [Spring Framework](https://spring.io/projects/spring-boot)
+* [Quarkus](https://quarkus.io/guides/getting-started)
+
+#### Middleware
+
+* Java Messaging Service (JMS Api)
+* Batch Processing
+* Service Oriented Architectures
+* Streaming data
+* Event-driven microservices
+
+#### CI / CD
+
+* Continuous Integration
+* Continuous Delivery
+* Continuous Deployment
+* Continuous QA
