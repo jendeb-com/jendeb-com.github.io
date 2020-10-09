@@ -1,0 +1,26 @@
+site_name: "jendeb docs"
+theme:
+  name: "material"
+  features:
+    - header.autohide
+    - navigation.tabs
+  palette:
+    scheme: slate # default | slate
+    primary: light green
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/jendeb.svg
+# extra_css:
+#  - /css/style.css
+repo_name: jendeb.com
+repo_url: https://github.com/colub-io/colub-io.github.io
+edit_uri: edit/docs/docs/
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.tabbed
