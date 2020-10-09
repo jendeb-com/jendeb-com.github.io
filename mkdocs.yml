@@ -13,7 +13,7 @@ theme:
 # extra_css:
 #  - /css/style.css
 repo_name: jendeb.com
-repo_url: https://github.com/colub-io/colub-io.github.io
+repo_url: https://github.com/jendeb-com/jendeb-com.github.io
 edit_uri: edit/docs/docs/
 markdown_extensions:
   - pymdownx.highlight:
