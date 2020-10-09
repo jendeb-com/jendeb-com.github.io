@@ -1,6 +1,6 @@
 # Welcome to MkDocs
 
-![Make Docs](https://github.com/colub-io/colub-io.github.io/workflows/Make%20Docs/badge.svg?branch=docs)
+![ci](https://github.com/jendeb-com/jendeb-com.github.io/workflows/ci/badge.svg?branch=docs)
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
